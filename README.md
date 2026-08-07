@@ -33,6 +33,6 @@ You need Java 21 and PostgreSQL installed.
 
 The API starts on http://localhost:8080. The tables are created automatically by Hibernate.
 
-To use the app with the UI, run the frontend from the other repo, it starts on http://localhost:3000.
+To use the app with the UI, run the backend from the other repo, it starts on http://localhost:3000.
 
 
